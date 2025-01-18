@@ -1,3 +1,11 @@
+<div>
+  <a href="https://imgpx.com/9yykxvSnpAYu"><img src="https://imgpx.com/hhfyTgGmCDnU.png" alt="Зображення IMGpx" /></a>
+</div>
+
+<div>
+  <p>It was created with Styled Components </p>
+</div>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
