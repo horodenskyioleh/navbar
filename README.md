@@ -3,7 +3,15 @@
 </div>
 
 <div>
+  <p>........<p/>
+  <p>........<p/>
+  <p>........<p/>
+  <p>........<p/>
   <p>It was created with Styled Components </p>
+  <p>........<p/>
+  <p>........<p/>
+  <p>........<p/>
+  <p>........<p/>
 </div>
 
 # Getting Started with Create React App
